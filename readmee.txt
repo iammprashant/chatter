@@ -8,3 +8,9 @@ cors -> is used for inter communication between URL
 react-router-dom -> 
 
 Bug: useEffect runs twice on component mount (StrictMode, NODE_ENV=development)
+
+emmit -> send data
+on -> receive data
+
+map -> traverse to each element
+... -> spread operator
