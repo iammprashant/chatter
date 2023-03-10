@@ -86,7 +86,7 @@ const Chat = () => {
                     <button onClick={send} className="sendBtn" ><img src={sendLogo} alt="Send" /></button>
                 </div>
             </div>
-        </div>
+        </div>  
     )
 }
 
