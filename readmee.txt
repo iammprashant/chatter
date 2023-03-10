@@ -1,0 +1,8 @@
+npm start -> to start react app
+nodemon .\index.js\ -> to run nodejs server
+npm i socket.io-client react-scroll-to-bootom
+socket.io-client -> for client side using socket
+react-scroll-to-bootom -> automatically scroll as messages input continue
+cors -> is used for inter communication between URL 
+
+react-router-dom -> 
