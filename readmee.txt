@@ -6,3 +6,5 @@ react-scroll-to-bootom -> automatically scroll as messages input continue
 cors -> is used for inter communication between URL 
 
 react-router-dom -> 
+
+Bug: useEffect runs twice on component mount (StrictMode, NODE_ENV=development)

@@ -11,8 +11,8 @@ function App() {
     <BrowserRouter>
     <div className='app'>
       <Routes>
-      <Route path="/" element={<Join />}></Route>
-      <Route path="/Chat" element={<Chat />}></Route>
+      <Route exact path="/" element={<Join />}></Route>
+      <Route exact path="/Chat" element={<Chat />}></Route>
       </Routes>
     </div>
     </BrowserRouter>

@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-//
 import "./Join.css";
 import logo from "../../images/logo.png";
 import { Link } from "react-router-dom";
@@ -15,8 +14,7 @@ const sendUser = () => {
 
 const Join = () => {
 
-    const [name, setname] = useState("");   
-    console.log(name);
+    const [name, setname] = useState("");    
     return (
         <div className="JoinPage">
             <div className="JoinContainer">
