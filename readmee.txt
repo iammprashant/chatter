@@ -1,3 +1,4 @@
+after clone from github you have to run npm install command to install application requirements
 npm start -> to start react app
 nodemon .\index.js\ -> to run nodejs server
 npm i socket.io-client react-scroll-to-bootom
